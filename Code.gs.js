@@ -1,5 +1,4 @@
 function POSTClickUpTask_DEV() {
-  var url = '<Insert URL here>';
   var listID = '<Insert list ID here>';
   var apiToken = '<Insert your API key here>';
 
